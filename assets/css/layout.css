@@ -30,8 +30,8 @@ body { background: #0f0f0f; }
 
 header {
    position: relative;
-   height: 1000px;
-   min-height: 500px;
+   height: 100%;
+  /* min-height: 500px; */
    width: 100%;
    background-image: url('../img/Akash Mallareddy Facilitattor Badge.png');
    background-repeat: no-repeat;
