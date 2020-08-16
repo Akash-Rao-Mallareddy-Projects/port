@@ -29,8 +29,8 @@ body { background: #0f0f0f; }
 /* ------------------------------------------------------------------ */
 
 header {
-   position: static;
-   height: 800px;
+   position: fixed;
+   height: 600px;
    min-height: 500px;
    width: 100%;
    background-image: url('../img/Akash Mallareddy Facilitattor Badge.png');
